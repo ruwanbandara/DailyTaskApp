@@ -81,6 +81,9 @@
                 <div class="title m-b-md">
                     Dally Task App
                 </div>
+                <br>
+                <a href='/tasks'>Task</a>
+                
 
                
             </div>
